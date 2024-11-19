@@ -7,7 +7,7 @@ commerce company. By analyzing customer behavior and purchase patterns, the goal
 group customers into distinct segments. This segmentation can inform targeted marketing
 strategies, improve customer satisfaction, and enhance overall business strategies.
 
-Key Concepts and Challenges:
+# Key Concepts and Challenges:
 
 Data Collection: Obtain a dataset containing customer information, purchase history, and
 relevant data.
@@ -28,7 +28,7 @@ Insights and Recommendations: Analyze characteristics of each segment and provid
 insights.
 
 
-Learning Objectives:
+# Learning Objectives:
 
 Practical experience with clustering algorithms.
 
